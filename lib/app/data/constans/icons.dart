@@ -1,0 +1,21 @@
+const _path = 'assets/icons';
+
+// const icHomeOutline = '$_path/home_outline.svg';
+const icActivity = '$_path/activity.svg';
+const icBag = '$_path/bag.svg';
+const icBookmark = '$_path/bookmark.svg';
+const icCalendar = '$_path/calendar.svg';
+const icCategory = '$_path/category-outline.svg';
+const icChart = '$_path/chart-outline.svg';
+const icDiscovery = '$_path/discovery.svg';
+const icDocument = '$_path/document-outline.svg';
+const icFolder = '$_path/folder.svg';
+const icGraph = '$_path/graph.svg';
+const icHeart = '$_path/heart.svg';
+const icHome = '$_path/home-outline.svg';
+const icLocation = '$_path/location.svg';
+const icMessage = '$_path/Message.svg';
+const icNotification = '$_path/notification-outline.svg';
+const icPlus = '$_path/plus.svg';
+const icProfile = '$_path/profile-outline.svg';
+const icSetting = '$_path/setting.svg';
