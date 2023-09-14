@@ -1,6 +1,6 @@
-# sinau_apps
+# Aplikasi Sinau
 
-A new Flutter project.
+Aplikas ini dibuat untuk materi Mengenal Bangun Datar Segitiga dan Segiempat. Didalamnya terdapat kompetensi dasar, isi dan dilengkapi dengan contoh soal dan latihan soal yang mudah untuk dioperasikan. Aplikasi ini berfokus pada materi mengenal, sifat, jenis, keliling, dan luas bangun datar segiempat dan segitiga serta masalah yang berkaitan dengan keliling dan luas bangun datar segiempat dan segitiga.
 
 ## Getting Started
 
