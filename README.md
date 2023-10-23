@@ -42,7 +42,7 @@ Lihat selengkapnya pada persentasi berikut [_here_](https://drive.google.com/fil
 
 ## Screenshots
 
-<img src="assets/Sinau-Learning-App/Slide1.JPG"/>
+<img src="assets/sinau-learning-app/Slide1.JPG"/>
 
 <!-- # Aplikasi Sinau
 
