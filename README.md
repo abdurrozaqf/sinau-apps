@@ -14,7 +14,7 @@ Lihat selengkapnya pada persentasi berikut [_here_](https://drive.google.com/fil
 - An overview screen after finishing a quiz, displaying all questions and answers
 - Easy bug reports in case the user notices a bug with the application -->
 
-### Development
+## Development
 
 - [Flutter](https://flutter.dev/) - sebagai _framework_ dalam pengembangan aplikasi.
 - [Dart](https://dart.dev/) - sebagai bahasa pemograman untuk _framework_ flutter.
@@ -22,7 +22,7 @@ Lihat selengkapnya pada persentasi berikut [_here_](https://drive.google.com/fil
 - [Visual Studio Code](https://code.visualstudio.com/) - sebagai _software code editor_ untuk pengembangan aplikasi.
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - untuk mendesain tampilan dan isi dalam pengembangan aplikasi.
 
-### Dependencies
+## Dependencies
 
 - get: ^4.6.5
 - intl: ^0.18.0
@@ -40,7 +40,7 @@ Lihat selengkapnya pada persentasi berikut [_here_](https://drive.google.com/fil
 - [Android Confetti](https://github.com/jinatonic/confetti) includes (com.github.jinatonic.confetti:confetti) - used for adding interactivity and engaging the user visually with particle effects
 - [Kotlin](http://kotlinlang.org/) - used for null-safety and new language features -->
 
-<!-- ### Screenshots -->
+## Screenshots
 
 <img src="assets/Sinau-Learning-App/Slide1.JPG"/>
 
