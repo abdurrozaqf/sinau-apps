@@ -40,9 +40,9 @@ Lihat selengkapnya pada persentasi berikut [_here_](https://drive.google.com/fil
 - [Android Confetti](https://github.com/jinatonic/confetti) includes (com.github.jinatonic.confetti:confetti) - used for adding interactivity and engaging the user visually with particle effects
 - [Kotlin](http://kotlinlang.org/) - used for null-safety and new language features -->
 
-<!-- ### Screenshots
+<!-- ### Screenshots -->
 
-<img src="https://github.com/Widle-Studio/Grocery-App/blob/Grocery-App/Grocery%20App/grocery-app.png" alt="Flutter Grocery Shopping App Video Animation"> -->
+<img src="assets/Sinau-Learning-App/Slide1.JPG"/>
 
 <!-- # Aplikasi Sinau
 
